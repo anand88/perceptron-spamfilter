@@ -17,9 +17,11 @@ Finally we print the accuracy of the perceptron in the testing phase.
 
 Pretty good, got an accuracy of 91.42259414225941 using
 340 ham files
+and
 123 spam files
 for training
 and 
 348 ham files
+and
 130 spam files
 for testing
